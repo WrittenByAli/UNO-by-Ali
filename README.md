@@ -1,4 +1,4 @@
-![logo](https://github.com/WrittenByAli/UNO-by-Ali/blob/main/uno.jpg)
+![logo](https://github.com/WrittenByAli/UNO-by-Ali/blob/main/uno%20redme.png)
 <h1 align="center">🎮 UNO Game in C++</h1>
 <p align="center">
   A console-based UNO card game made entirely in C++  
