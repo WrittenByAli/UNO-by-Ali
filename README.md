@@ -28,10 +28,7 @@ Perfect for learning object-oriented programming and game logic in C++.
 ## 🛠️ Tech Used
 
 - `C++` (Core Logic)
-- `OOP` (Classes, Inheritance)
 - `File I/O` *(optional)*
-- `STL` (like vectors if used)
-
 ---
 
 ## 🚀 How to Run
